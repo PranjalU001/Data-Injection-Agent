@@ -1,0 +1,6 @@
+flask
+kafka-python
+snowflake-connector-python
+streamlit
+pandas
+requests
